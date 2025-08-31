@@ -39,7 +39,7 @@ A clean and simple **Spotify UI clone** built using **only HTML and CSS**. This 
 ## ⚠️ Note
 
 If the Spotify clone doesn't look right or feels zoomed in, try **zooming out your browser** (press `Ctrl` + `-` or `Cmd` + `-`).  
-Currently, the clone is **not fully responsive**, but we’re working on it!
+Currently, the clone is **not fully responsive**, but I am working on it!
 
 ---
 
